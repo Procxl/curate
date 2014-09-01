@@ -1,3 +1,6 @@
+/*
+Sristi Biosciences Pvt Ltd - Initial version - Curation Web based tool
+*/
 <?php
 // admin/editdata.php    Norbert Haider, University of Vienna, 2009-2014
 // part of MolDB6        last change: 2014-08-18
